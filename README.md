@@ -7,7 +7,7 @@
 
 💭 I'm interested in server (network) technologies, servers security, virtualization and division into sub-servers, in particular Minecraft game servers.
 
-👊 I'm the previous owner and developer of KwadrowaMasakra.pl
+👊 I'm the previous owner and developer of KwadratowaMasakra.pl
 
 ## Languages and Tools:
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
