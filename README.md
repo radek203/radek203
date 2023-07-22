@@ -1,11 +1,11 @@
 # Hi, I'm Radek! 👋
 
 ## About me
-👩‍💻 I’m a 1nd year Applied Computer Science student at AGH University of Science and Technology in Cracow
+👩‍💻 I’m a 2nd year Applied Computer Science student at AGH University of Science and Technology in Cracow
 
 🧠 I'm currently learning Java and PHP
 
-💭 I'm interested in server (network) technologies, servers security, virtualization and division into sub-servers, in particular Minecraft game servers.
+💭 I'm interested in server (network) technologies, servers security, virtualization, division into sub-servers and minor optimizations.
 
 👊 I'm the previous owner and developer of KwadratowaMasakra.pl
 
