@@ -9,6 +9,8 @@
 
 👊 I'm the previous owner and developer of KwadratowaMasakra.pl
 
+🔭 My currently active projects (Educational purposes only!): https://cs2crown.com/ https://thundercode.net/
+
 ## Languages and Tools:
 ### Which I currently use
 <p>
