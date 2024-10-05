@@ -9,7 +9,11 @@
 
 👊 I'm the previous owner and developer of KwadratowaMasakra.pl
 
-🔭 My currently active projects (Educational purposes only!): https://cs2crown.com/ https://thundercode.net/
+🔭 My currently active projects (Educational purposes only!):
+
+https://thundercode.net/ (Spring Boot 3, Angular 18)
+
+https://cs2crown.com/ (PHP 8, Vanilla JS)
 
 ## Languages and Tools:
 ### Which I currently use
