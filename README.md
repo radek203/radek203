@@ -1,7 +1,7 @@
 # Hi, I'm Radek! 👋
 
 ## About me
-👩‍💻 I’m a 3nd year Applied Computer Science student at AGH University of Krakow
+👩‍💻 I’m a 3rd-year Applied Computer Science student at AGH University of Krakow
 
 🧠 I'm currently learning Java, C++, PHP, TS, JS, Python
 
