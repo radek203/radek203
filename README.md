@@ -5,7 +5,7 @@
 
 🧠 I'm currently learning Java, C++, PHP, TS, JS, Python
 
-💭 Frameworks I'm learning: Spring Boot 3, Angular 18
+💭 Frameworks I'm learning: Spring Boot 3, Angular 19
 
 👊 I'm the previous owner and developer of KwadratowaMasakra.pl
 
