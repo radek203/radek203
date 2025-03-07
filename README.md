@@ -11,7 +11,7 @@
 
 🔭 My currently active projects (Educational purposes only!):
 
-https://project.thundercode.net/ (Spring Boot 3, Angular 18, CashBill & DPD integration)
+https://project.thundercode.net/ (Spring Boot 3, Angular 19, PayU & DPD integration)
 
 https://cs2crown.com/ (PHP 8, Vanilla JS)
 
