@@ -1,7 +1,7 @@
 # Hi, I'm Radek! 👋
 
 ## About me
-👩‍💻 I’m a 3rd-year Applied Computer Science student at AGH University of Krakow
+👩‍💻 I’m a 4th-year Applied Computer Science student at AGH University of Krakow
 
 🧠 I'm currently learning Java, Spring Boot 3, JS, TS, Angular 19, and exploring microservices architecture
 
