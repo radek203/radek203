@@ -3,7 +3,7 @@
 ## About me
 👩‍💻 I’m a 4th-year Applied Computer Science student at AGH University of Krakow
 
-🧠 I'm currently learning Java, Spring Boot 3, JS, TS, Angular 19, and exploring microservices architecture
+🧠 I'm currently learning Java, Spring Boot 4 and exploring microservices architecture
 
 👊 I'm the previous owner and developer of KwadratowaMasakra.pl
 
