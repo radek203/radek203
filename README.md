@@ -1,11 +1,11 @@
 # Hi, I'm Radek! 👋
 
 ## About me
-👩‍💻 I’m a 4th-year Applied Computer Science student at AGH University of Krakow
+👩‍💻 I hold a Bachelor of Engineering (BEng) in Applied Computer Science from AGH University of Krakow.
 
-🧠 I'm currently learning Java, Spring Boot 4 and exploring microservices architecture
+🧠 I'm currently learning Java and Spring Boot 4, and exploring microservices architecture
 
-👊 I'm the previous owner and developer of KwadratowaMasakra.pl
+👊 I'm the former owner and developer of KwadratowaMasakra.pl
 
 ## Languages and Tools:
 ### Which I currently use
