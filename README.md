@@ -1,37 +1,168 @@
 # Hi, I'm Radek! 👋
 
-## About me
-👩‍💻 I hold a Bachelor of Engineering (BEng) in Applied Computer Science from AGH University of Krakow.
+### Java Backend Developer | Distributed Systems | Microservices | Real-Time Applications
 
-🧠 I'm currently learning Java and Spring Boot 4, and exploring microservices architecture
+I'm a **Java Backend Engineer** from Kraków, Poland 🇵🇱, focused on building
+**scalable, high-performance and distributed systems**.
 
-👊 I'm the former owner and developer of KwadratowaMasakra.pl
+🎓 Bachelor of Engineering in **Applied Computer Science** from  
+**AGH University of Krakow**
 
-## Languages and Tools:
-### Which I currently use
+👊 Former owner and developer of **KwadratowaMasakra.pl**
+
+💻 Currently working mainly with **Java, Spring Boot, Spring WebFlux, Kafka,
+PostgreSQL, Cassandra, Redis, Elasticsearch, Docker and Kubernetes**.
+
+⚡ I enjoy working on systems where **performance, concurrency, scalability
+and reliability** really matter.
+
+---
+
+## 👨‍💻 About Me
+
+- ☕ Java Backend Developer working with **Java & Spring Boot 3/4**
+- 🏗️ Building **microservices and distributed systems**
+- ⚡ Working with **high-concurrency and low-latency applications**
+- 🔄 Developing reactive services using **Spring WebFlux**
+- 📨 Using **Apache Kafka** for event-driven communication
+- 🗄️ Working with both **SQL and NoSQL databases**
+- 🐳 Containerizing applications with **Docker**
+- ☸️ Working with **Kubernetes**
+- 📊 Monitoring applications using **Grafana & Prometheus**
+- 🧪 Writing **unit and integration tests**
+- 🎮 Experienced in developing **real-time distributed game server systems**
+- 🌐 Full-stack experience with **Angular, TypeScript and REST APIs**
+- 🐧 Comfortable working with **Linux servers**
+- 🤖 Using AI-assisted development tools such as **GitHub Copilot, Codex,
+  Cursor and Claude Code**
+
+---
+
+## 🚀 What I Work With
+
+### Backend
+
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
 </p>
+
+- Java
+- Spring Boot 3 / 4
+- Spring WebFlux
+- Spring MVC
+- REST APIs
+- WebSockets
+- Server-Sent Events (SSE)
+- Netty
+- Maven
+- Microservices Architecture
+- Event-Driven Architecture
+- Concurrent & Reactive Programming
+
+---
+
+### Messaging & Distributed Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka" />
+</p>
+
+- Apache Kafka
+- Event-driven systems
+- Distributed systems
+- High-throughput services
+- Real-time communication
+- Low-latency architectures
+
+---
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
+
+**SQL**
+- PostgreSQL
+- MySQL
+- MariaDB
+
+**NoSQL**
+- Cassandra
+- Redis
+- Elasticsearch
+
+---
+
+### DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,jenkins,git,github,gitlab" />
+</p>
+
+- Docker
+- Kubernetes
+- Linux
+- Jenkins
+- Git
+- GitHub
+- GitLab
+- Bitbucket
+- CI/CD
+- Grafana
+- Prometheus
+
+---
+
+### Testing
+
+- JUnit
+- Mockito
+- WireMock
+- Testcontainers
+- Unit Testing
+- Integration Testing
+
+---
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass" />
+</p>
+
+- Angular
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Sass
+
+---
+
+### Other Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,cpp,c" />
+</p>
+
+- Python
+- PHP 8
+- C++
+- C
+
+---
+
+## 🏗️ Areas I'm Interested In
+
+```text
+Distributed Systems
+Microservices Architecture
+Event-Driven Architecture
+High-Concurrency Systems
+Reactive Programming
+Performance Engineering
+Scalable Backend Architecture
+Real-Time Applications
+Cloud-Native Applications
+Observability
